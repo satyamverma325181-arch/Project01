@@ -1,4 +1,4 @@
-html,body{
+/* html,body{
   height: 100%;
   width: 100%;
 }
@@ -46,10 +46,6 @@ padding: 2px;
   background-color: transparent;
 
 }
-/* .center{
-  background-color: red;
-  border-radius: 5px;
-} */
 
 .center h3{
   font-size: 18px;
@@ -100,4 +96,4 @@ padding-top: 15px;
 .bottom p{
   font-size: 10px;
   color: #ffff;
-}
+} */
